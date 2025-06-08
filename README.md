@@ -1,3 +1,7 @@
 # Python4Dynamo
-Python4Dynamo
-Find my Python codes for use in Dynamo graphs here
+This repository contains Python scripts used in my YouTube tutorials.  
+Each folder corresponds to a YouTube video.
+
+**How to use:**
+1. Find the folder with the video name or topic.
+2. Download or copy the `code.py` file inside.
